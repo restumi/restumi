@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, welcome to my channel.</h1>
-<h3 align="center">My name is asdasd, student at smk 8</h3>
+<h3 align="center">
+I'm <strong>RestuMi</strong>, a passionate student and aspiring developer from Indonesia 🇮🇩.  
+Currently exploring <strong>Mobile Development</strong> with focus on <strong>Laravel</strong>, but sometimes i play around with <strong>GO</strong> too.  
+I love building projects, learning new tech, and sharing what I know. 
+</h3>
+<br>
+<h3>🔥 Motto: <strong>ngoding, error, belajar, ngoding</strong></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=restumi&label=Profile%20views&color=0e75b6&style=flat" alt="restumi" /> </p>
 
