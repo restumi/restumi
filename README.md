@@ -5,7 +5,7 @@ Currently exploring <strong>Mobile Development</strong> with focus on <strong>La
 I love building projects, learning new tech, and sharing what I know. 
 </h3>
 <br>
-<h3>🔥 Motto: <strong>ngoding, error, belajar, ngoding</strong></h3>
+<h3>🔥 Motto: <strong>ngoding, error, buka AI, ngoding</strong></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=restumi&label=Profile%20views&color=0e75b6&style=flat" alt="restumi" /> </p>
 
